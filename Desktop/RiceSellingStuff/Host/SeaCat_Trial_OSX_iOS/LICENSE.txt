@@ -1,0 +1,45 @@
+SeaCat trial license
+
+The SOFTWARE PRODUCT (SeaCat trial) is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+BY USING THE SOFTWARE PRODUCT, YOU ARE AGREEING ON BEHALF OF THE ENTITY USING THE SOFTWARE PRODUCT ("COMPANY") THAT COMPANY WILL BE BOUND BY AND IS BECOMING A PARTY TO THIS LICENSE AGREEMENT ("AGREEMENT") AND THAT YOU HAVE THE AUTHORITY TO BIND COMPANY. IF COMPANY DOES NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE PRODUCT. COMPANY HAS NOT BECOME A LICENSEE OF, AND IS NOT AUTHORIZED TO USE THE SOFTWARE PRODUCT UNLESS AND UNTIL IT HAS AGREED TO BE BOUND BY THESE TERMS.
+
+Company may not use the SOFTWARE PRODUCT if Company is a direct competitor.
+
+
+LICENSES
+
+SOFTWARE PRODUCT is licensed as follows:
+a. Time span.
+This license is granted for unlimited period of time.
+b. Usage.
+This license allows Company to use SOFTWARE PRODUCT on an emulator of mobile device. Use of the SOFTWARE PRODUCT on physical mobile device is explicitly prohibited.
+c. Commercials.
+The SOFTWARE PRODUCT can be used only for evaluation and software development and testing. Any other uses require written confirmation from SEAL TEAKS LTD. Using SOFTWARE PRODUCT to generate profit is prohibited unless you are granted with written confirmation from SEAL TEAKS LTD.
+
+
+DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+
+a. Copyright Notices.
+You must not remove or alter any copyright notices on any copy of the SOFTWARE PRODUCT.
+b. Distribution.
+You may not distribute or sell whole or any part of the SOFTWARE PRODUCT to third parties. License will be revoked if distributed or sold to third parties.
+c. Rental.
+You may not rent, lease, or lend the SOFTWARE PRODUCT.
+d. Modification.
+You are not allowed to modify the SOFTWARE PRODUCT in any way. License will be automatically revoked when the SOFTWARE PRODUCT is modified.
+
+
+COPYRIGHT
+
+All title, including but not limited to copyrights, in and to SOFTWARE PRODUCT and any copies thereof are owned by SEAL TEAKS LTD.
+
+
+NO WARRANTIES
+
+SEAL TEAKS LTD expressly disclaims any warranty for the SOFTWARE PRODUCT, which is provided 'as is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, non-infringement, or fitness of a particular purpose.
+
+
+LIMITATION OF LIABILITY
+
+In no event shall SEAL TEAKS LTD be liable for any damages due to use of SOFTWARE PRODUCT, to the maximum extent permitted by law. This includes without limitation, lost profits, business interruption, or lost information. In no event will SEAL TEAKS LTD be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages. SEAL TEAKS LTDshall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, trademark rights, business interruption, loss of privacy or the disclosure of confidential information.
